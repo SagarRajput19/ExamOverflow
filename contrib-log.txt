@@ -1,1 +1,2 @@
 Refactored helper functions on 2024-01-31
+Minor corrections on 2024-01-29
