@@ -2,3 +2,4 @@ Refactored helper functions on 2024-01-31
 Minor corrections on 2024-01-29
 Minor corrections on 2024-02-02
 Improved styling on 2024-02-09
+Bug fix on 2024-02-06
