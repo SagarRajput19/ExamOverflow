@@ -26,3 +26,4 @@ Improved markdown on 2024-04-18
 Refactored helper functions on 2024-04-16
 Fixed spelling on 2024-04-15
 Fixed spelling on 2024-04-24
+Minor corrections on 2024-05-01
