@@ -32,3 +32,4 @@ Improved markdown on 2024-04-29
 Improved markdown on 2024-05-08
 Updated content on 2024-05-09
 Added explanations on 2024-05-13
+Clarified section on 2024-05-17
