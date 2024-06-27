@@ -41,3 +41,4 @@ Added explanations on 2024-06-10
 Refactored helper functions on 2024-06-17
 Improved markdown on 2024-06-25
 Clarified section on 2024-06-26
+Fixed layout bug on 2024-06-27
