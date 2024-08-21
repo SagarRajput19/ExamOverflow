@@ -55,3 +55,4 @@ Updated content on 2024-08-01
 Bug fix on 2024-08-02
 Updated content on 2024-08-08
 Enhanced responsiveness on 2024-08-08
+Added explanations on 2024-08-21
