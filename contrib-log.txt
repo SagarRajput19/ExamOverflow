@@ -74,3 +74,4 @@ Minor corrections on 2024-11-05
 Optimized code on 2024-11-11
 Fixed layout bug on 2024-11-13
 Refactored helper functions on 2024-11-14
+Improved styling on 2024-11-11
